@@ -5,8 +5,8 @@
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
     "128": "icon.png"
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzgyrXitpr7Rq6YCmdxe+bDE/RkBUr+8hfVyeRRb+O6s7uNWWyuPMVPG6LXzkSjkEWiYDgm7EKO7kIQ8iSMxNCRf2XyjLOiwukY8D5NfVn8RFNq5v1eRSFyTQheGXluO+y1o0N24aaBqKrq6p+g6vmgHGtXVluZTMYFjXJVdrDOY5npaQwHYgnh6jG+mXEcgBr9Wof+n5a6GiLy0LJLck0M3HrKCxsq8/NVpEhK5OXwAcHWhD5KJ8uLcA9T70SdJnRza4uq8XnIyAffpamjAYq0qDXi5cNBm+FoCTgdlrF7hhxEJG50v/Mr2MmNLNV+8AceZK6IX6ApjKrbtK/HukIwIDAQAB",
   },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzgyrXitpr7Rq6YCmdxe+bDE/RkBUr+8hfVyeRRb+O6s7uNWWyuPMVPG6LXzkSjkEWiYDgm7EKO7kIQ8iSMxNCRf2XyjLOiwukY8D5NfVn8RFNq5v1eRSFyTQheGXluO+y1o0N24aaBqKrq6p+g6vmgHGtXVluZTMYFjXJVdrDOY5npaQwHYgnh6jG+mXEcgBr9Wof+n5a6GiLy0LJLck0M3HrKCxsq8/NVpEhK5OXwAcHWhD5KJ8uLcA9T70SdJnRza4uq8XnIyAffpamjAYq0qDXi5cNBm+FoCTgdlrF7hhxEJG50v/Mr2MmNLNV+8AceZK6IX6ApjKrbtK/HukIwIDAQAB",
   "commands": {
     "ACCESS_HISTORY": {
       "description": "Ctrl+H"
